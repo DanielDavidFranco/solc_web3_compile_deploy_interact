@@ -1,0 +1,9 @@
+1) npm install --save solc
+
+2 ) npm install fs-extra
+
+3) node compile.js
+
+npm list    // para listar los paquetes instalados y sus versiones
+
+npm list solc   // para ver la versión de solc instalada
