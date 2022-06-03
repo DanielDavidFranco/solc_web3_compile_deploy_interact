@@ -11,4 +11,4 @@ Instructions:
 
 
 Notes:
-npm list solc   // para ver la versión de solc instalada
+npm list solc   // To see the installed solc.js version
