@@ -5,7 +5,7 @@ Instructions:
 
 1) npm install --save solc
 
-2 ) npm install fs-extra
+2) npm install fs-extra
 
 3) node compile.js
 
