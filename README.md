@@ -27,7 +27,7 @@ CONTENT:
 - /extra/ folder := Contains additional web3.js-based or ethers.js-based scripts to interact with smart contracts or simply transact in the blockchain from the backend.
 
 
-* Scripts:
+*Scripts:
 - compile_singleContract.js := Compiles the Inbox contract of the Inbox.sol file and saves the ABI and the Bytecode into the /bin/ folder. NOTE: Better not to execute this script, which is included mostly for the purpose of illustrating how to compile a single contract.
 
 - compile.js := Compiles all the contracts (Inbox & Forum) under the Inbox.sol umbrella, so that both ABIs are stored in /bin/ABI.json file, both bytecodes are saved in /bin/Bytecode.json file, and the order of compilation in both json files is stored into the /bin/Contracts.js .
