@@ -5,10 +5,11 @@ Instructions:
 
 1) npm install --save solc
 
-2) npm install fs-extra
+2) npm list solc   // To see the installed solc.js version
 
-3) node compile.js
+3) If required, modify the pragma solidity^<solc_version> line of the .sol file accordingly.
 
+4) npm install fs-extra
 
-Notes:
-npm list solc   // To see the installed solc.js version
+5) node compile.js
+
