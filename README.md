@@ -12,9 +12,11 @@ INSTRUCTIONS:
 
 4) npm install fs-extra
 
-5) node compile.js
+5) create the /bin/ folder
 
-6) For proper usage of the sendEth.js file, modify the privateKey and the receiverAddress variables accordingly.
+6) node compile.js
+
+7) For proper usage of the sendEth.js file, modify the privateKey and the receiverAddress variables accordingly.
 
 
 CONTENT:
